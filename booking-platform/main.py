@@ -29,12 +29,12 @@ logger = logging.getLogger("booking.main")
 
 BANNER = """
 ╔══════════════════════════════════════════════════════╗
-║          ✈️  AirBook – Flight Booking Agent          ║
-║          Powered by Groq LLaMA-3.3-70b              ║
+║           AirBook – Flight Booking Agent             ║
+║          Powered by Groq LLaMA-3.3-70b               ║
 ╠══════════════════════════════════════════════════════╣
 ║  Users available:                                    ║
-║    USR-001  Alice  (auto-pay, card **** 4242)         ║
-║    USR-002  Bob    (manual pay, no saved card)        ║
+║    USR-001  Alice  (auto-pay, card **** 4242)        ║
+║    USR-002  Bob    (manual pay, no saved card)       ║
 ╠══════════════════════════════════════════════════════╣
 ║  Type your request below. Commands:                  ║
 ║    /clear   – Clear conversation history             ║
